@@ -35,77 +35,77 @@ let handler  = async (m, { conn, usedPrefix: _p }) => {
 🤖 [NFQ BOT] 🤖
 Created Bye: @Drawl Nag
 
-Hi, ${name} 👋
+olaaa, ${name} 👋
 Exp: ${exp}
 
-📟 Waktu: ${time}
-📆 Tanggal: ${week}, ${date}
+📟 tempo: ${time}
+📆 encontro: ${week}, ${date}
 
 ${more.repeat(1000)}
 
-Cara Tambah XP:
-+1 Exp/pesan biasa
-+10 Exp/command
+Como adicionar XP:
++1 Encomenda exp/regular
++10 Exp/comando
 
-╠═════✪〘 Menu 〙✪═══
+╠═════✪〘 MENU TOP PRA KRL 〙✪═══
 ║
 ╠═〘 Xp 〙 ═
 ╠➥ ${_p}leaderboard [jumlah user]
 ║
-╠═〘 Command 〙 ═
+╠═〘 Commandos 〙 ═
 ╠➥ ${_p}menu
 ╠➥ ${_p}help
 ╠➥ ${_p}?
 ║
-╠═〘 Tutor BoT 〙 ═
+╠═〘 MILENA-BOT 〙 ═
 ╠➥ ${_p}tutorial
 ║
-╠═〘 Others 〙 ═
-╠➥ ${_p}qr <teks>
-╠➥ ${_p}stiker (caption)
-╠➥ ${_p}stiker <url>
-╠➥ ${_p}toimg (reply)
+╠═〘 Outros 〙 ═
+╠➥ ${_p}qr <texto>
+╠➥ ${_p}stiker (captura)
+╠➥ ${_p}stiker <link pra fazer sticker>
+╠➥ ${_p}toimg (sticker para foto)
 ╠➥ ${_p}bucin
 ╠➥ ${_p}ssweb <url>
 ╠➥ ${_p}sswebf <url>
-╠➥ ${_p}google <pencarian>
-╠➥ ${_p}googlef <pencarian>
-╠➥ ${_p}readmore <teks>|<sembunyi>
+╠➥ ${_p}google <pesquisa>
+╠➥ ${_p}googlef <pesquisa>
+╠➥ ${_p}readmore <texto>|<ocultar>
 ╠➥ ${_p}quran
 ╠➥ ${_p}modApk
 ║
 ╠═〘 Group 〙 ═
-╠➥ ${_p}add [62xxxxxxxxx]
-╠➥ ${_p}promote [@tagmember]
-╠➥ ${_p}demote [@tagadmin]
-╠➥ ${_p}linkgrup
-╠➥ ${_p}pengumuman [text]
-╠➥ ${_p}hidetag [text]
+╠➥ ${_p}add [55819XXXXXX]
+╠➥ ${_p}promote [marcar o membro]
+╠➥ ${_p}demote [marcar o membro]
+╠➥ ${_p}linkgrup [pegar o link do grupo]
+╠➥ ${_p}pengumuman [texto]
+╠➥ ${_p}hidetag [texto]
 ╠➥ ${_p}listonline
-╠➥ ${_p}kick @Member
-╠➥ ${_p}grouplist
+╠➥ ${_p}kick [marca o ghostKKK]
+╠➥ ${_p}grouplist [sla que porra e essa]
 ║
 ╠═〘 EXPERIMENTAL 〙 ═
-╠➥ ${_p}jadibot [kode login jika ada / kosongin]
+╠➥ ${_p}jadibot [código de login se houver/vazio]
 ╠➥ ${_p}berhenti
 ╠➥ ${_p}getcode
 ║
-╠═〘 OWNER 〙 ═
-╠➥ ${_p}bcgc <teks>
-╠➥ ${_p}setmenu <teks>
-╠➥ ${_p}deletechat (chat grup)
+╠═〘 PROPRIETÁRIO 〙 ═
+╠➥ ${_p}bcgc <texto>
+╠➥ ${_p}setmenu <texto>
+╠➥ ${_p}deletechat (chat do grupo)
 ╠➥ ${_p}deletechat group
-╠➥ ${_p}mutechat (chat grup)
+╠➥ ${_p}mutechat (chat do grupo)
 ╠➥ ${_p}mutechat group
 ║
-╠═〘 IKLAN 〙 ═
-╠➥ Instagram: @arpunchs
-╠➥ Github: https://github.com/Arya274/Arya-Bot
+╠═〘 PROPAGANDA 〙 ═
+╠➥ Instagram: @cy_chrisfds.trash
+╠➥ Github: https://github.com/cy-chris/milibot
 ║
-╠═〘 Info Bot 〙 ═
-╠➥ Name : NFQ BOT
-╠➥ Coded using *Nano* on Android \\w Termux
-╠➥ Request? Wa.me/6288235435804
+╠═〘 Info do bot 〙 ═
+╠➥ nome : MILENA-BOT
+╠➥ Codificado usando *Nano* no Android \\ w Termux
+╠➥ Request? Wa.me/5581996207906
 ╠═════
 ║ Advanced:
 ║  > return m
